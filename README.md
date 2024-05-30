@@ -1,8 +1,9 @@
 <h1>Меня зовут Лиана  👋 </h1>
 
 <h3 align="left">Учусь Frontend разработке 💻</h3><h3 align="left">
-<h3 align="left">На данный момент изучаю:</h3><h3 align="left">
+<h4 align="left">На данный момент изучаю:</h4>
 
+<h3 align="left">
 Frontend
 </h3>
  </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
