@@ -34,4 +34,4 @@ Software Skills
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liana-abr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="liana-abr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liana-abr&show_icons=true&theme=dark&locale=en&layout=compact" alt="liana-abr" /></p>
