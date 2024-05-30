@@ -28,3 +28,10 @@ Software Skills
 </h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liana-abr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="liana-abr" /></p>
