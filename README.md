@@ -1,8 +1,8 @@
 <h1>Меня зовут Лиана  👋 </h1>
 
 <h3 align="left">Учусь Frontend разработке 💻</h3><h3 align="left">
-<h4 align="left">На данный момент изучаю:</h4>
-
+<!-- <h4 align="left">На данный момент изучаю:</h4>
+ -->
 <h3 align="left">
 Frontend
 </h3>
